@@ -1,0 +1,31 @@
+{
+    "author": "avef96@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "arisha-idk",
+    "pebble": {
+        "displayName": "Arisha idk",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/converted.png",
+                    "name": "ARISHACONV",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "7c11186c-bc86-4d80-9f26-ff66061d4c48",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
